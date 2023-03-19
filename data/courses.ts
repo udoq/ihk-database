@@ -18,7 +18,7 @@ export const courses = [
   {
     id: 3,
     title: "Client-Server Communication",
-    description: "Three-Tire Architecture in the Web, Mittoch, 20:45 Uhr",
+    description: "Three-Tire Architecture in the Web, Mittwoch, 20:45 Uhr",
     category: "Client-Server",
     url: "https://nextjs.org",
     imageUrl: "https://github.com/vercel.png",
