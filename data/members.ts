@@ -3,7 +3,7 @@ export const members = [
       id: 1,
       firstname: "Robin",
       lastname: "Quattelbaum",
-      email: "robin@tanzpalast-ratingen.de",
+      email: "robin@myPersonalHome.de",
       phone: "0176-550660",
     },
     {
